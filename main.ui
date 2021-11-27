@@ -6,21 +6,106 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>301</width>
+    <height>422</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
-  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QComboBox" name="sorts">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>0</y>
+      <width>191</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="title_label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>30</y>
+      <width>161</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size: 40px; font-family: Monotype Corsiva;</string>
+    </property>
+    <property name="text">
+     <string>title</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="roasting_label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>181</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size: 20px; font-family: Monotype Corsiva;</string>
+    </property>
+    <property name="text">
+     <string>text</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="type_label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>100</y>
+      <width>181</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size: 20px; font-family: Monotype Corsiva;</string>
+    </property>
+    <property name="text">
+     <string>text</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="cost_label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>120</y>
+      <width>191</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size: 20px; font-family: Monotype Corsiva;</string>
+    </property>
+    <property name="text">
+     <string>text</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>160</y>
+      <width>261</width>
+      <height>211</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
-     <height>22</height>
+     <width>301</width>
+     <height>26</height>
     </rect>
    </property>
   </widget>
