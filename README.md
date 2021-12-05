@@ -113,7 +113,7 @@ software development/engineering roles.
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
+[x] [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -125,7 +125,7 @@ software development/engineering roles.
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [The Daily Plan](#the-daily-plan)
 - [Coding Question Practice](#coding-question-practice)
-[x] [Coding Problems](#coding-problems)
+- [Coding Problems](#coding-problems)
 
 ### Topics of Study
 
